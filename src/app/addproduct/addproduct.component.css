@@ -1,0 +1,22 @@
+.addproductcont1{
+    margin:5% 10% 10% 10%;
+
+}
+.icon1{
+    margin-top: 5px;
+    text-align: center;
+}
+input{
+    width: 20vw;
+    height: 5vh;
+}
+.title{
+    margin-bottom: 30px;
+}
+select{
+    width: 50%;
+    height:35px;
+}
+.done{
+    margin-top: 20px;
+}
